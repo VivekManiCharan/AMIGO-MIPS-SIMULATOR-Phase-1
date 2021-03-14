@@ -1,7 +1,7 @@
 # Team : AMIGO
 # Developed by CS19B019, CS19B032
 # AMIGO-MIPS-SIMULATOR
-First download all the files
+. First download all the files
 Then kepp all files in the same folder
 Then run App.py file
 Click on the File and Load the bubblesort.asm file which u had downloaded
