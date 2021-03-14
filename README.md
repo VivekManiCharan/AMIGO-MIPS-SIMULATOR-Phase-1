@@ -1,1 +1,3 @@
+#Team : AMIGO
+# Developed by CS19B019, CS19B032
 # AMIGO-MIPS-SIMULATOR
